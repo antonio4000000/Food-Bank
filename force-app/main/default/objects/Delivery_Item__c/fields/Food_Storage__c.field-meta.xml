@@ -16,9 +16,9 @@
                 <label>Non-refrigerated</label>
             </value>
             <value>
-                <fullName>Frozen</fullName>
+                <fullName>Frozens</fullName>
                 <default>false</default>
-                <label>Frozen</label>
+                <label>Frozens</label>
             </value>
             <value>
                 <fullName>Refrigerated</fullName>
